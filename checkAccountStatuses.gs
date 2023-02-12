@@ -1,4 +1,5 @@
 /** 
+ * Google App Script integrating with Okta API 
  * Okta API Acct Status checks account status via Okta Username
  * Assumes Okta org assigns Okta accounts under format 'jdoe@example.com'
  * The code inputs usernames in jdoe or jdoe@example.com formats and encodes API request 
