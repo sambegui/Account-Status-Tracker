@@ -23,7 +23,7 @@ To use this script:
 7. Run the `checkAccountStatuses` function by clicking on the play button or by going to Run > `checkAccountStatuses`.
 8. The script will retrieve the status for each username and write the results to the sheet.
 
-You can also set up a trigger to run the script automatically by calling the setRefreshTriggerOkta function. This will create a time-based trigger that runs the script every 12 hours.
+You can also set up a trigger to run the script automatically by calling the `setRefreshTriggerOkta` function. This will create a time-based trigger that runs the script every 12 hours.
 
 ## Credits
 This script was created by Samuel Beguiristain.
