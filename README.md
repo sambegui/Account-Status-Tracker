@@ -25,5 +25,8 @@ To use this script:
 
 You can also set up a trigger to run the script automatically by calling the `setRefreshTriggerOkta` function. This will create a time-based trigger that runs the script every 12 hours.
 
+## Example
+![SCR-20230227-30j](https://user-images.githubusercontent.com/125210256/221497500-cf2e6b12-77a5-4e2a-9578-a50be694d34f.png)
+
 ## Credits
 This script was created by Samuel Beguiristain.
